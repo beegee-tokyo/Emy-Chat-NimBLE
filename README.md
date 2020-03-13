@@ -73,6 +73,9 @@ The Android app to connect to an Emy-Chat node is ready, and published in [Googl
 #### [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 - Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32
 
+#### [NimBLE](https://github.com/h2zero/NimBLE-Arduino/tree/ServerDev)
+- NimBLE for ESP32. Uses less code and heap memory for BLE than the standard Arduino-ESP32 BLE library. Still in development phase, but working for my needs.
+
 ## Platform Dependencies
 #### [Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 - The Arduino BSP for Adafruit Bluefruit nRF52 series
